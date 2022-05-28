@@ -12,6 +12,8 @@ Este projeto foi desenvolvido como pré requisito para conclusão do 2º módulo
 
 Todos os dados da página foram populados a partir de requisições da [API TMDB (The Movie Database)](https://tmdb-proxy.cubos-academy.workers.dev).
 
+**Atenção:** Não foram aplicados conceitos de responsividade neste projeto pois não fazia parte da proposta do mesmo.
+
 [Clique aqui para acessar a plataforma em produção](https://daniseveriano.github.io/cubos-flix-dom-javascript-api-fetch/).
 
 ### - Carrossel dos Principais Filmes e input para Busca:
