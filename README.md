@@ -14,7 +14,7 @@ Todos os dados da página foram populados a partir de requisições da [API TMDB
 
 **Atenção:** Não foram aplicados conceitos de responsividade neste projeto pois não fazia parte da proposta do mesmo.
 
-[Clique aqui para acessar a plataforma em produção](https://daniseveriano.github.io/cubos-flix-dom-javascript-api-fetch/).
+[Clique aqui para acessar a plataforma em produção](https://daniseveriano.github.io/cubos-flix-dom-vanillajs-api-fetch/).
 
 ### - Carrossel dos Principais Filmes e input para Busca:
 
